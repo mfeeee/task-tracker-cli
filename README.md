@@ -21,6 +21,10 @@ python3 task_cli.py <task_id> <command>
 ```
 
 #### Example Commands
+- CLI Guide:
+  ```bash
+  python3 task_cli.py
+  ```
 - List tasks:
   ```bash
   python3 task_cli.py list
