@@ -35,11 +35,11 @@ python3 task_cli.py <task_id> <command>
   ```
 - Mark a task as in progress:
   ```bash
-  python3 task_cli.py <task_id> mark-in-progress
+  python3 task_cli.py mark-in-progress <task_id>
   ```
 - Mark a task as completed:
   ```bash
-  python3 task_cli.py <task_id> mark-completed
+  python3 task_cli.py mark-completed <task_id>
   ```
 
 ## Reference
